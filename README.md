@@ -62,10 +62,6 @@ I build applied AI systems for **healthcare** and the **environment** — clinic
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DanieleCecca&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ### 🏆 Hackathons
