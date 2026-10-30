@@ -59,14 +59,6 @@ I build applied AI systems for **healthcare** and the **environment** — clinic
 | **[Automatic Speech Recognition](https://github.com/DanieleCecca/Automatic-speech-recognition)** | ASR pipeline with PyTorch / torchaudio |
 | **[LearnWiser](https://github.com/DanieleCecca/LearnWiser)** | RAG study tutor · Google GDSC Polimi hackathon |
 
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieleCecca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleCecca&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
 <br/>
 
