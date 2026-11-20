@@ -55,9 +55,10 @@ I build applied AI systems for **healthcare** and the **environment** — clinic
 | **[Where to Land a Drone](https://github.com/DanieleCecca/Where-to-land-a-drone)** | Aerial semantic segmentation · [Report](https://github.com/DanieleCecca/Where-to-land-a-drone/blob/main/Where%20to%20land%20your%20drone.pdf) |
 | **[Hospital Waiting-List RL](https://github.com/DanieleCecca/Ottimizzazione-delle-liste-di-attesa-negli-ospedali)** | PPO / DQN scheduling · [Report](https://github.com/DanieleCecca/Ottimizzazione-delle-liste-di-attesa-negli-ospedali/blob/main/optimization_hospital.pdf) |
 | **[EHR NER](https://github.com/DanieleCecca/Extract-entities-from-HER)** | Clinical entity extraction · [Report](https://github.com/DanieleCecca/Extract-entities-from-HER/blob/main/A%20Novel%20way%20to%20extract%20entities%20from%20electronic.pdf) |
-| **[PROSAIL · Cab retrieval](https://github.com/DanieleCecca/PROSAIL-Retrieval-of-biophysical-variables-Cab-with-ML-DL-approaches)** | Env / remote sensing — chlorophyll (Cab) from Sentinel-2 via PROSAIL + ML/DL |
-| **[Automatic Speech Recognition](https://github.com/DanieleCecca/Automatic-speech-recognition)** | ASR pipeline with PyTorch / torchaudio |
-| **[LearnWiser](https://github.com/DanieleCecca/LearnWiser)** | RAG study tutor · Google GDSC Polimi hackathon |
+| **[PROSAIL · Cab retrieval](https://github.com/DanieleCecca/PROSAIL-Retrieval-of-biophysical-variables-Cab-with-ML-DL-approaches)** | Env / remote sensing — chlorophyll (Cab) from Sentinel-2 via PROSAIL + ML/DL · [Report](https://github.com/DanieleCecca/PROSAIL-Retrieval-of-biophysical-variables-Cab-with-ML-DL-approaches/blob/main/Prosail_parameters.pdf) |
+| **[Automatic Speech Recognition](https://github.com/DanieleCecca/Automatic-speech-recognition)** | ASR pipeline with PyTorch / torchaudio · [Report](https://github.com/DanieleCecca/Automatic-speech-recognition/blob/main/Automatic_speech_recognition.pdf) |
+| **[EpiSenseAI](https://github.com/DaddarioLuigi/Healthcare/tree/main/Project1)** | EEG signal classification with SVM · [Report](https://github.com/DaddarioLuigi/Healthcare/blob/main/Project1/EpiSenseAI.pdf) |
+| **[Breast Insight](https://github.com/DaddarioLuigi/Healthcare/tree/main/Project2)** | Breast MRI segmentation with SAM and radiomics-based classification · [Report](https://github.com/DaddarioLuigi/Healthcare/blob/main/Project2/InsightsBreast.pdf) |
 
 
 <br/>
