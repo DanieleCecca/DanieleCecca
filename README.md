@@ -59,6 +59,7 @@ I build applied AI systems for **healthcare** and the **environment** — clinic
 | **[Automatic Speech Recognition](https://github.com/DanieleCecca/Automatic-speech-recognition)** | ASR pipeline with PyTorch / torchaudio · [Report](https://github.com/DanieleCecca/Automatic-speech-recognition/blob/main/Automatic_speech_recognition.pdf) |
 | **[EpiSenseAI](https://github.com/DaddarioLuigi/Healthcare/tree/main/Project1)** | EEG signal classification with SVM · [Report](https://github.com/DaddarioLuigi/Healthcare/blob/main/Project1/EpiSenseAI.pdf) |
 | **[Breast Insight](https://github.com/DaddarioLuigi/Healthcare/tree/main/Project2)** | Breast MRI segmentation with SAM and radiomics-based classification · [Report](https://github.com/DaddarioLuigi/Healthcare/blob/main/Project2/InsightsBreast.pdf) |
+| **[Hypothyroidism Anomaly Detection](https://github.com/DanieleCecca/Anomaly-detection-on-Hypothyroidism-dataset)** | Dataset exploration and anomaly detection for hypothyroidism · [Report](https://github.com/DanieleCecca/Anomaly-detection-on-Hypothyroidism-dataset/blob/main/paper.pdf) · [Presentation](https://github.com/DanieleCecca/Anomaly-detection-on-Hypothyroidism-dataset/blob/main/presentation.pdf) |
 
 
 <br/>
